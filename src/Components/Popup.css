@@ -44,10 +44,10 @@ input[type='text']:hover{
 @media screen and (width<760px){
     form{
  
-        top:18%;
-        left: 10%;
+       top:0;
+        left: 0;
         height: 180px;
-        width: 250px;
+        width: 100%;
     
     
     }
